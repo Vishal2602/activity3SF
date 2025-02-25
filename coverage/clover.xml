@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1740454777611" clover="3.2.0">
-  <project timestamp="1740454777611" name="All files">
+<coverage generated="1740455374302" clover="3.2.0">
+  <project timestamp="1740455374303" name="All files">
     <metrics statements="10" coveredstatements="10" conditionals="22" coveredconditionals="22" methods="1" coveredmethods="1" elements="33" coveredelements="33" complexity="0" loc="10" ncloc="10" packages="1" files="1" classes="1"/>
     <file name="classifyTriangle.js" path="C:\Users\visha\Downloads\Activity-3-CIS-470-SP25-main\Activity-3-CIS-470-SP25-main\classifyTriangle.js">
       <metrics statements="10" coveredstatements="10" conditionals="22" coveredconditionals="22" methods="1" coveredmethods="1"/>
