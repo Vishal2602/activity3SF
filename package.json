@@ -1,0 +1,22 @@
+{
+  "name": "activity-3-cis-470",
+  "version": "1.0.0",
+  "description": "## Program Functionality",
+  "main": "classifyTriangle.js",
+  "scripts": {
+    "test": "jest --verbose --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/umassdgithub/Activity-3-CIS-470.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/umassdgithub/Activity-3-CIS-470/issues"
+  },
+  "homepage": "https://github.com/umassdgithub/Activity-3-CIS-470#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
